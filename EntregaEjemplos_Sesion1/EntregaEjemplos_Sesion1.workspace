@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="EntregaEjemplos_Sesion1" Database="" Version="10000">
-  <Project Name="Ejercicio1" Path="Ejercicio1/Ejercicio1.project" Active="No"/>
+  <Project Name="Ejercicio1" Path="Ejercicio1/Ejercicio1.project" Active="Yes"/>
   <Project Name="Ejercicio2" Path="Ejercicio2/Ejercicio2.project" Active="No"/>
   <Project Name="Ejercicio3" Path="Ejercicio3/Ejercicio3.project" Active="No"/>
   <Project Name="Ejercicio4" Path="Ejercicio4/Ejercicio4.project" Active="No"/>
   <Project Name="Ejercicio5" Path="Ejercicio5/Ejercicio5.project" Active="No"/>
   <Project Name="Ejercicio6" Path="Ejercicio6/Ejercicio6.project" Active="No"/>
   <Project Name="Ejercicio7" Path="Ejercicio7/Ejercicio7.project" Active="No"/>
-  <Project Name="Ejercicio8" Path="Ejercicio8/Ejercicio8.project" Active="Yes"/>
+  <Project Name="Ejercicio8" Path="Ejercicio8/Ejercicio8.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>

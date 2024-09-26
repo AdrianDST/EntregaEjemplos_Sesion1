@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="EntregaEjemplos_Sesion2" Database="" Version="10000">
+  <Project Name="EjercicioPasoPorReferencia" Path="Ejercicio9/Ejercicio9.project" Active="No"/>
+  <Project Name="EjercicioPasoDeArgumentos" Path="EjercicioPasoDeArgumentos/EjercicioPasoDeArgumentos.project" Active="No"/>
+  <Project Name="Ejercicio9" Path="Ejercicio9/Ejercicio9.project" Active="No"/>
+  <Project Name="EjercicioPasoPorReferencia" Path="EjercicioPasoPorReferencia/EjercicioPasoPorReferencia.project" Active="No"/>
+  <Project Name="Ejercicio10" Path="Ejercicio10/Ejercicio10.project" Active="No"/>
+  <Project Name="Ejercicio11" Path="Ejercicio11/Ejercicio11.project" Active="No"/>
+  <Project Name="Ejercicio12" Path="Ejercicio12/Ejercicio12.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="EjercicioPasoPorReferencia" ConfigName="Debug"/>
+      <Project Name="EjercicioPasoDeArgumentos" ConfigName="Debug"/>
+      <Project Name="Ejercicio9" ConfigName="Debug"/>
+      <Project Name="EjercicioPasoPorReferencia" ConfigName="Debug"/>
+      <Project Name="Ejercicio10" ConfigName="Debug"/>
+      <Project Name="Ejercicio11" ConfigName="Debug"/>
+      <Project Name="Ejercicio12" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="EjercicioPasoPorReferencia" ConfigName="Release"/>
+      <Project Name="EjercicioPasoDeArgumentos" ConfigName="Release"/>
+      <Project Name="Ejercicio9" ConfigName="Release"/>
+      <Project Name="EjercicioPasoPorReferencia" ConfigName="Release"/>
+      <Project Name="Ejercicio10" ConfigName="Release"/>
+      <Project Name="Ejercicio11" ConfigName="Release"/>
+      <Project Name="Ejercicio12" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
